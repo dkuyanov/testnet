@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestNetA/TestNetA/bin
+/TestNetA/TestNetA/obj
+*.user
+*.suo
+/TestNetA/packages
